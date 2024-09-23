@@ -1,6 +1,7 @@
 Hi, I'm Ilham Brilliandi. I'm a fresh graduate student majoring at mathematics in Brawijaya University. I have a heavy passionate towards data science since college. Here's a simple tour on projects i've done since 2023.
 
-# [Project 1: Data Analysis - E-Commerce](https://github.com/ilhambrilliandi/da_e-commerce)
+
+## [Project 1: Data Analysis - E-Commerce](https://github.com/ilhambrilliandi/da_e-commerce)
 This project is end-to-end analysis, including data preprocessing and visualization, providing actionable insights into sales trends, top products, and seller performance from 3 years dataset of a store.
 
 Conclusion:
@@ -15,7 +16,7 @@ Give promotions to first buyer on least and most bought product to get them enga
 Give bonuses and rewards to the loyal customers.
 
 
-# [Project 2: Data Analysis - Employee Promotion](https://github.com/ilhambrilliandi/da_predictemployeepromotions)
+## [Project 2: Data Analysis - Employee Promotion](https://github.com/ilhambrilliandi/da_predictemployeepromotions)
 This is a project of end-to-end analysis, including data preprocessing, visualization and predicting using several methods. Providing insights about what takes the biggest role on promotions, and find the best department based on promotion rates in a year.
 
 Conclusion:
@@ -33,11 +34,14 @@ Recommendation:
 Use hyperparameter tuning or other resampling method.
 Employees' performance can be improved by conducting training, Below Secondary employees need to be the focus.
 
-# [Project 3: Machine Learning - Identifying Rock, Paper, Scissors](https://github.com/ilhambrilliandi/ml_cv_classificationrps)
+
+## [Project 3: Machine Learning - Identifying Rock, Paper, Scissors](https://github.com/ilhambrilliandi/ml_cv_classificationrps)
 In this project i implemented machine learning using Tensorflow to identifying images of hand gesture, achieving the accuracy of 92%.
 
-# [Project 4: Web Scraping - Automation Clicker Game](https://github.com/ilhambrilliandi/ws_automationcoockieclicker)
+
+## [Project 4: Web Scraping - Automation Clicker Game](https://github.com/ilhambrilliandi/ws_automationcoockieclicker)
 This code runs an automation for web-based game "[Cookie Clicker](https://orteil.dashnet.org/cookieclicker/)" by automatically clicking and upgrading items using selenium.
 
-# [Project 5: Web Scraping - Extract Website Information](https://github.com/ilhambrilliandi/ws_extractwebsiteinformation)
+
+## [Project 5: Web Scraping - Extract Website Information](https://github.com/ilhambrilliandi/ws_extractwebsiteinformation)
 In this project i'm trying to scrape the information from [this website](https://www.anwb.nl/auto/private-lease/anwb-private-lease/aanbod) using selenium, then store them in csv file.
