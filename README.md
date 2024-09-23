@@ -1,3 +1,5 @@
+Hi, I'm Ilham Brilliandi. I'm a fresh graduate student majoring at mathematics in Brawijaya University. I have a really heavy passionate towards data science since college. Here's a simple tour on projects i've done since 2023.
+
 # [Project 1: Data Analysis - E-Commerce](https://github.com/ilhambrilliandi/da_e-commerce)
 This project is end-to-end analysis, including data preprocessing and visualization, providing actionable insights into sales trends, top products, and seller performance from 3 years dataset of a store.
 
