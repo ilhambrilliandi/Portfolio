@@ -4,35 +4,33 @@ Hi, I'm Ilham Brilliandi. I'm a fresh graduate student majoring at mathematics i
 ## [Project 1: Data Analysis - E-Commerce](https://github.com/ilhambrilliandi/da_e-commerce)
 This project is end-to-end analysis, including data preprocessing and visualization, providing actionable insights into sales trends, top products, and seller performance from 3 years dataset of a store.
 
-Conclusion:
+Overview:
+- Top product categories differ across 3 years, health beauty is the most bought category based on sum of 3 years.
+- Average busiest transactions occurred on Monday, at the afternoon (around 4PM).
 
-Top product categories differ across 3 years, health beauty is the most bought category based on sum of 3 years.
-Average busiest transactions occurred on Monday, at the afternoon (around 4PM).
 Recommendation:
-
-Give promotions and bonuses to most bought products to enhance sell performance.
-Also give a discount to busiest transaction time such as promoting free delivery fee.
-Give promotions to first buyer on least and most bought product to get them engage.
-Give bonuses and rewards to the loyal customers.
+- Give promotions and bonuses to most bought products to enhance sell performance.
+- Also give a discount to busiest transaction time such as promoting free delivery fee.
+- Give promotions to first buyer on least and most bought product to get them engage.
+- Give bonuses and rewards to the loyal customers.
 
 
 ## [Project 2: Data Analysis - Employee Promotion](https://github.com/ilhambrilliandi/da_predictemployeepromotions)
 This is a project of end-to-end analysis, including data preprocessing, visualization and predicting using several methods. Providing insights about what takes the biggest role on promotions, and find the best department based on promotion rates in a year.
 
-Conclusion:
+Overview:
+- Overfitting occured on LogR and SVM models because of imbalanced data.
+- Tested on 6 models, lightgbm is the fittest.
+- 429 people (3.3%) of all employees predicted will get promoted in 2024.
+- Education level and department have important role in determining promotion.
+- Based on promotion, the most accomplished departments are Sales & Marketing, Operations, and Procurement.
+- Bachelors got the most promoted employees by number, and Masters & Above by percentage. Note that no Below Secondary employees got promoted.
+- Recruitment Channel has important role in determining promotion. Other is the most by number, and Referred by percentage (4.55%).
+- Promotion distribution by gender relatively even.
 
-Overfitting occured on LogR and SVM models because of imbalanced data.
-Tested on 6 models, lightgbm is the fittest.
-429 people (3.3%) of all employees predicted will get promoted in 2024.
-Education level and department have important role in determining promotion.
-Based on promotion, the most accomplished departments are Sales & Marketing, Operations, and Procurement.
-Bachelors got the most promoted employees by number, and Masters & Above by percentage. Note that no Below Secondary employees got promoted.
-Recruitment Channel has important role in determining promotion. Other is the most by number, and Referred by percentage (4.55%).
-Promotion distribution by gender relatively even.
 Recommendation:
-
-Use hyperparameter tuning or other resampling method.
-Employees' performance can be improved by conducting training, Below Secondary employees need to be the focus.
+- Use hyperparameter tuning or other resampling method.
+- Employees' performance can be improved by conducting training, Below Secondary employees need to be the focus.
 
 
 ## [Project 3: Machine Learning - Identifying Rock, Paper, Scissors](https://github.com/ilhambrilliandi/ml_cv_classificationrps)
